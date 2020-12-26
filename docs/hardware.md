@@ -22,28 +22,28 @@ The intention is to create a single internet radio by shoving the Pi and its scr
 
 The sound of the soundbar is good enough for my purpose (especially considering the price). However, I'll be cutting parts from it and gluing stuff into it. This will likely have a detrimental influence on the sound. But we'll see.
 
-<img src="img/hw02.jpg" alt="drawing" width="750"/>  
-The hardware, with an opened up soundbar.  
+<img src="img/hw02.jpg" alt="drawing" width="750"/><br>
+The hardware, with an opened up soundbar.<br>
 <br>
-
-<img src="img/hw03.jpg" alt="drawing" width="750"/>  
-<img src="img/hw04.jpg" alt="drawing" width="750"/>  
-Cutting up the front.  
 <br>
-
-<img src="img/hw05.jpg" alt="drawing" width="750"/>  
-<img src="img/hw06.jpg" alt="drawing" width="750"/>  
-<img src="img/hw07.jpg" alt="drawing" width="750"/>  
-Cutting up the back with Pi Case placement.  
+<img src="img/hw03.jpg" alt="drawing" width="750"/><br>
+<img src="img/hw04.jpg" alt="drawing" width="750"/><br>
+Cutting up the front.<br>
 <br>
-
-<img src="img/hw09.jpg" alt="drawing" width="750"/>  
-WiFi Antenna placement.  
 <br>
-
-<img src="img/hw10.jpg" alt="drawing" width="750"/>  
-Gluing Pi Case backpanel and WiFi Antenna.  
+<img src="img/hw05.jpg" alt="drawing" width="750"/><br>
+<img src="img/hw06.jpg" alt="drawing" width="750"/><br>
+<img src="img/hw07.jpg" alt="drawing" width="750"/><br>
+Cutting up the back with Pi Case placement.<br>
 <br>
-
-Currently waiting for it to dry.  
+<br>
+<img src="img/hw09.jpg" alt="drawing" width="750"/><br>
+WiFi Antenna placement.<br>
+<br>
+<br>
+<img src="img/hw10.jpg" alt="drawing" width="750"/><br>
+Gluing Pi Case backpanel and WiFi Antenna.<br>
+<br>
+<br>
+Currently waiting for it to dry.<br>
 <br>
