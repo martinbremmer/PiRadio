@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/main.qml</file>
+        <file>src/qml/RadioStationButton.qml</file>
+        <file>src/qml/FuzzyBorder.qml</file>
+        <file>src/qml/FuzzyImage.qml</file>
+        <file>src/qml/Header.qml</file>
+        <file>src/qml/Footer.qml</file>
+        <file>src/qml/RadioStationSelector.qml</file>
+        <file>src/qml/Bars.qml</file>
+        <file>src/qml/Menu.qml</file>
+    </qresource>
+</RCC>

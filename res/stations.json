@@ -1,0 +1,58 @@
+[
+{ "name":"Pinguin Indie",
+  "stream":"http://streams.pinguinradio.com/PinguinRadio192.mp3",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinindie.svg"
+},
+{ "name":"Pinguin Classic",
+  "stream":"http://streams.pinguinradio.com/PinguinClassics192.mp3",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinclassic.svg"
+},
+{ "name":"Pinguin On the Rocks",
+  "stream":"http://streams.pinguinradio.com/PinguinOnTheRocks192.mp3",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinrock.svg"
+},
+{ "name":"Pinguin Aardschok",
+  "stream":"https://streams.pinguinradio.com/Aardschok192.mp3",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinaardschok.svg"
+},
+{ "name":"Pinguin Pop",
+  "stream":"https://samcloud.spacial.com/api/listen?sid=98586&m=sc&rid=174409",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinpop.svg"
+},
+{ "name":"Pinguin Grooves",
+  "stream":"https://samcloud.spacial.com/api/listen?sid=98587&m=sc&rid=174412",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguingroove.svg"
+},
+{ "name":"Pinguin Pluche",
+  "stream":"https://samcloud.spacial.com/api/listen?sid=98569&m=sc&rid=174384",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinpluche.svg"
+},
+{ "name":"Pinguin World",
+  "stream":"https://samcloud.spacial.com/api/listen?sid=98570&m=sc&rid=174387",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinworld.svg"
+},
+{ "name":"Pinguin Blues",
+  "stream":"https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinblues.svg"
+},
+{ "name":"Pinguin Fiesta",
+  "stream":"https://19293.live.streamtheworld.com/SP_R2292843_SC",
+  "icon":"https://pinguinradio.com/assets/img/logo/pinguinfiesta.svg"
+},
+{ "name":"NPO Radio 1",
+  "stream":"https://icecast.omroep.nl/radio1-bb-mp3",
+  "icon":"https://upload.wikimedia.org/wikipedia/commons/d/da/NPO_Radio_1_logo_2014.svg"
+},
+{ "name":"NPO Radio 2",
+  "stream":"https://icecast.omroep.nl/radio2-bb-mp3",
+  "icon":"https://upload.wikimedia.org/wikipedia/commons/b/b3/NPO_Radio_2_logo.png"
+},
+{ "name":"Arrow Classic Rock",
+  "stream":"https://stream.gal.io/arrow",
+  "icon":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Arrow_Classic_Rock-logo.png"
+},
+{ "name":"Arrow Blues Box",
+  "stream":"http://stream.arrowbluesbox.nl/bluesboxonline",
+  "icon":"https://arrowbluesrock.nl/wp-content/uploads/2019/04/ARROW-BLUESROCK-header-site-dikkere-rand.png"
+}
+]
