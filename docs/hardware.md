@@ -1,5 +1,7 @@
 # Hardware
 
+<img src="img/hw15.jpg" alt="drawing" width="750"/>
+
 This, I had lying around:
 
 * [Raspberry Pi 2 B](https://www.raspberrypi.org/)
@@ -45,5 +47,13 @@ WiFi Antenna placement.<br>
 Gluing Pi Case backpanel and WiFi Antenna.<br>
 <br>
 <br>
-Currently waiting for it to dry.<br>
+<img src="img/hw11.jpg" alt="drawing" width="750"/><br>
+Because there's no space under the soundbar, the power and audio connections are soldered directly onto the Pi.<br>
+<br>
+<br>
+<img src="img/hw12.jpg" alt="drawing" width="750"/><br>
+<img src="img/hw13.jpg" alt="drawing" width="750"/><br>
+<img src="img/hw14.jpg" alt="drawing" width="750"/><br>
+Putting it together.<br>
+<br>
 <br>

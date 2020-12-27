@@ -1,6 +1,8 @@
 # PiRadio
 Internet Radio, intended for the Raspberry Pi
 
+<img src="docs/img/hw15.jpg" alt="drawing" width="480"/><br>
+
 Introduction
 ------------
 
@@ -29,4 +31,7 @@ Part of the list of radio channels for selection.<br>
 <br>
 I used [this guide](https://www.raspberrypi-spy.co.uk/2014/05/how-to-autostart-apps-in-rasbian-lxde-desktop/) to start PiRadio automatically.<br>
 <br>
-
+The 'autostart' mentioned in the previous guide was used to switch off screen blanking by adding:  
+@xset s noblank  
+@xset s off  
+@xset -dpms  
